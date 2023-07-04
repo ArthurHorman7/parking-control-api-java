@@ -4,7 +4,7 @@
 
 
 #### Ferramentas Utilizadas para preparar o ambiente:
-- JDK 11
+- JDK 17
 - Maven
 - Postman
 - PgAdmin (Postgres)
